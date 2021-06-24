@@ -1,23 +1,24 @@
 {
-    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://git.io/JOXW5",
+    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://git.io/Jn7I2",
     "info": {
         "url_png_icon_64x64": "https://git.io/JGrIv",
         "url_png_logo": "https://git.io/JGrkx",
-        "location": "Obervogau, Austria",
+        "location": "Virginia, United States",
         "social": {
-            "twitter_handle": "AtfFpool",
-            "telegram_handle": "ATFFpool",
-            "facebook_handle": "",
+            "twitter_handle": "earthonomy",
+            "telegram_handle": "earthonomy",
+            "facebook_handle": "earthonomyapp",
             "youtube_handle": "",
             "twitch_handle": "",
-            "discord_handle": "",
-            "github_handle": "ATFFpool"
+            "discord_handle": "earthonomy",
+            "github_handle": "earthonomy"
         },
         "company": {
-            "name": "ATFFpool",
+            "name": "Earthonomy",
             "addr": "",
-            "city": "Obervogau",
-            "country": "Austria",
+            "city": "Sterling",
+            "state": "Virginia",
+            "country": "United States",
             "company_id": "",
             "vat_id": ""
         },
