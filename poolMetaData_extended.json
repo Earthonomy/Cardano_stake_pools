@@ -1,15 +1,15 @@
 {
     "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://git.io/Jn7I2",
     "info": {
-        "url_png_icon_64x64": "https://git.io/JGrIv",
-        "url_png_logo": "https://git.io/JGrkx",
+        "url_png_icon_64x64": "https://git.io/Jn7mN",
+        "url_png_logo": "https://git.io/Jn7Yo",
         "location": "Virginia, United States",
         "social": {
             "twitter_handle": "earthonomy",
             "telegram_handle": "earthonomy",
             "facebook_handle": "earthonomyapp",
-            "youtube_handle": "",
-            "twitch_handle": "",
+            "youtube_handle": "earthonomy",
+            "twitch_handle": "earthonomy",
             "discord_handle": "earthonomy",
             "github_handle": "earthonomy"
         },
@@ -30,11 +30,11 @@
         "rss": ""
     },
     "my-pool-ids": {
-        "0": "fdb8e1e7f181f23d31f09bb4547370ef104688b37b3e7f4fdb222f4f",
+        "0": "b3f8ca26f01faaecbdde426ccd6fc328d216204ae799ad04397b0d06",
         "1": ""
     },
     "when-satured-then-recommend": {
-        "0": "f66a36de855d53b9d5110bd46640f48dbab1c848c9e2f5c36d8c12dc",
+        "0": "",
         "1": ""
     },
     "telegram-admin-handle": {
